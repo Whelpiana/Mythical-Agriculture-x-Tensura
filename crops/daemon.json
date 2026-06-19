@@ -1,0 +1,18 @@
+{
+  "name": "Daemon",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "tensura:daemon_core"
+  },
+  "colors": {
+    "flower": "4A1B63",
+    "essence": "6B2A91",
+    "seeds": "8A4DB8"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_face",
+    "essence": "mysticalagriculture:item/essence_flame",
+    "seeds": "mysticalagriculture:item/mystical_seeds"
+  }
+}

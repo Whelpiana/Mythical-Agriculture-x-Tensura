@@ -1,0 +1,18 @@
+{
+  "name": "Silver",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:2",
+  "ingredient": {
+    "item": "tensura:silver_ingot"
+  },
+  "colors": {
+    "flower": "A8ADB2",
+    "essence": "C4C8CC",
+    "seeds": "8F9499"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_ingot",
+    "essence": "mysticalagriculture:item/essence_ingot",
+    "seeds": "mysticalagriculture:item/mystical_seeds"
+  }
+}
