@@ -1,0 +1,18 @@
+{
+  "name": "Mithril",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "tensura:mithril_block"
+  },
+  "colors": {
+    "flower": "B5D0F2",
+    "essence": "CBDEF5",
+    "seeds": "DED6ED"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_ingot",
+    "essence": "mysticalagriculture:item/essence_ingot",
+    "seeds": "mysticalagriculture:item/mystical_seeds"
+  }
+}
